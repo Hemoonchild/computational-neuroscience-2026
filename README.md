@@ -1,5 +1,4 @@
 # Computational Neuroscience — 2026
-Neuromatch-based local course
 
 Documenting my path into computational neuroscience: two weeks of self-directed
 prep, a 3-week Neuromatch-based Computational Neuroscience course (local Iran
