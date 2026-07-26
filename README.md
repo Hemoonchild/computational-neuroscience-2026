@@ -12,4 +12,7 @@ toward being ready to collaborate with other researchers once the course ends.
 ## Progress
 - **Day 1 — NumPy basics:** array creation, indexing/slicing, reshaping, broadcasting,
   vectorization vs. loops, randomness/convergence, spike train simulation, trial-averaged
-  neural activity — all 8 tasks (`day01_numpy_basics.ipynb`)
+  neural activity — notebook(`day01_numpy_basics.ipynb`)
+- **Day 2 — Linear algebra:** eigen decomposition (`A@v = λv`), 2D rotations, cosine
+  similarity, solving linear systems, orthogonality of symmetric-matrix eigenvectors
+  — notebook(`day02_linear_algebra.ipynb`)
