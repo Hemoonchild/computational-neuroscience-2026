@@ -21,6 +21,6 @@ toward being ready to collaborate with other researchers once the course ends.
   (`Preparation/day03_matplotlib_basics.ipynb`)
 
 
-  - **Day 4 — Matplotlib scientific figures:** simulated voltage trace with threshold line,
+- **Day 4 — Matplotlib scientific figures:** simulated voltage trace with threshold line,
   color-mapped scatter with colorbar, two-panel shared-axis figure
   (`preparation/day04_matplotlib_scientific.ipynb`)
