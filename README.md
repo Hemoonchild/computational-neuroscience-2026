@@ -19,3 +19,8 @@ toward being ready to collaborate with other researchers once the course ends.
 - **Day 3 — Matplotlib basics:** object-oriented API (`fig`/`ax`), subplot grids,
   multi-line styling, bar charts, histograms, saving figures to disk
   (`Preparation/day03_matplotlib_basics.ipynb`)
+
+
+  - **Day 4 — Matplotlib scientific figures:** simulated voltage trace with threshold line,
+  color-mapped scatter with colorbar, two-panel shared-axis figure
+  (`preparation/day04_matplotlib_scientific.ipynb`)
